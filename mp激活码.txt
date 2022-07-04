@@ -1,0 +1,17 @@
+mp激活码
+0f3e7bb0-c538-40aa-94e4-39dd87b07ef3
+aa8d390d-fbc8-4332-906f-0ba8d30fa0fb
+
+Git更新远程分支列表
+1.>git remote update -p   这个拉取最新的分支 部署的分支 
+1.我们从test new 一个Branch 然后 开发 开发完之后 提交到一个公共分支 然后用合并到这个分支 
+
+
+-Ddubbo.provider.group=xxxx
+ 用这个分支来部署 
+
+-Denv=DEV  -Dserver.port=8081
+
+
+
+
